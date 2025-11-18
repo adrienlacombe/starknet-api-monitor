@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.starknet.io.ico",
     "slug": "starknet-io",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
+    "uptime": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 266,
     "timeDay": 275,
     "timeWeek": 266,
     "timeMonth": 266,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2025-11-18": 14,
       "2025-11-15": 15
     }
   },
@@ -25,18 +24,20 @@
     "url": "https://api.vesu.xyz/markets",
     "icon": "https://icons.duckduckgo.com/ip3/api.vesu.xyz.ico",
     "slug": "vesu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1515,
-    "timeDay": 1303,
-    "timeWeek": 1515,
-    "timeMonth": 1515,
-    "timeYear": 1515,
-    "dailyMinutesDown": {}
+    "time": 1317,
+    "timeDay": 717,
+    "timeWeek": 1317,
+    "timeMonth": 1317,
+    "timeYear": 1317,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Hacker News",
