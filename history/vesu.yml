@@ -1,7 +1,7 @@
 url: https://api.vesu.xyz/markets
-status: down
-code: 504
-responseTime: 200
-lastUpdated: 2025-12-05T09:12:00.950Z
+status: up
+code: 200
+responseTime: 1204
+lastUpdated: 2025-12-05T09:26:46.356Z
 startTime: 2025-11-13T09:23:27.988Z
 generator: Upptime <https://github.com/upptime/upptime>
