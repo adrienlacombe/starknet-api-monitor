@@ -1,7 +1,7 @@
 url: https://www.starknet.io
-status: up
-code: 200
-responseTime: 441
-lastUpdated: 2025-12-13T18:10:18.874Z
+status: down
+code: 415
+responseTime: 234
+lastUpdated: 2025-12-13T21:19:59.991Z
 startTime: 2025-11-13T09:01:44.941Z
 generator: Upptime <https://github.com/upptime/upptime>
